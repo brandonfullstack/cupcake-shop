@@ -1,0 +1,16 @@
+body {
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+#best {
+  font-weight: bold;
+  color: gold;
+}
+
+img {
+  height: 100px;
+}
